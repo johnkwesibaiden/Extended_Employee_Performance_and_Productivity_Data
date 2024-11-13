@@ -13,6 +13,9 @@
 
  This dataset contains 100,000 rows of data capturing key aspects of employee performance, productivity, and demographics in a corporate environment. It includes details related to the employee's job, work habits, education, performance, and satisfaction. The dataset is designed for various purposes such as HR analytics, employee churn prediction, productivity analysis, and performance evaluation.
 
+ ![Dashboard](https://github.com/user-attachments/assets/bbf3b370-02dc-403b-9818-8946f8eae8c1)
+
+
  ### Data Sources
 
  The primary dataset used for this project existed as the “Extended_Employee_Performance_and_Productivity_Data.csv"   file, containing details related to the employee's job, work habits, education, performance, and satisfaction.
